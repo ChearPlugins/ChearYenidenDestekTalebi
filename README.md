@@ -5,6 +5,9 @@ Bu proje bundan önce oluşturulmuştu fakat zaman içerisinde oluşan bazı oyu
 ## Nasıl Çalışıyor?
 Oyuncular __/destek__ komutuyla eklentiye ait olan oyun arayüzünü açar ve içerisindeki butonlar veya yazı kutusunu kullanarak oyundaki yetkililerden destek talep edebilir.
 
+## Erişim Adresleri
+Eklentiye ulaşmak için [Tıkla](https://github.com/ChearPlugins/ChearYenidenDestekTalebi/releases/tag/2.0.0) ve eklentiyi çalıştırmak için gerekli olan atölye öğemize ulaşmak için [Tıkla](https://steamcommunity.com/sharedfiles/filedetails/?id=2015319833)
+
 ## Komutlar
 * /destek - *Destek talebi arayüzünü açar.*
 * /destek liste - *Aktif olan destek taleplerini gösterir.*
