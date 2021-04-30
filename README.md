@@ -1,7 +1,6 @@
-[discord-invite]: https://discord.gg/UP8w5JjQNQ
-[discord-shield]: https://discord.com/api/guilds/805797656911151135/widget.png
-[license]: https://github.com/ChearPlugins/ChearYenidenDestekTalebi/blob/main/LICENSE
-[license-shield]: https://img.shields.io/github/license/ChearPlugins/ChearYenidenDestekTalebi(düzenlendi)
+![GitHub all releases](https://img.shields.io/github/downloads/ChearPlugins/ChearYenidenDestekTalebi/total?label=%C4%B0ndir)
+![GitHub](https://img.shields.io/github/license/ChearPlugins/ChearYenidenDestekTalebi)
+![Discord](https://img.shields.io/discord/805797656911151135?label=discord)
 
 # ChearTman Yeniden Destek Talebi
 Oyuncuların yetkililere rahatsızlık vermemek amacıyla sıralı bir şekilde yardım almalarını sağlayan bir projedir. 
